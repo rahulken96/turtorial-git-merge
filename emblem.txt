@@ -5,6 +5,6 @@ Untuk membantu/menambahkan status sebuah hero yang digunakan dalam pertandingan,
     - Jungle
     - Support
     - Assassin
-    - Custom Mage
+    - Mage
     - Fighter
     - Marksman
