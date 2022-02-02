@@ -1,6 +1,6 @@
 Untuk membantu/menambahkan status sebuah hero yang digunakan dalam pertandingan, terdapat beberapa " Emblem " yang digunakan :
-    - Physical
-    - Magical
+    - Custom Physical
+    - Custom Magical
     - Tank
     - Jungle
     - Support
