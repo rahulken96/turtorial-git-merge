@@ -1,0 +1,10 @@
+Untuk membantu/menambahkan status sebuah hero yang digunakan dalam pertandingan, terdapat beberapa " Emblem " yang digunakan :
+    - Physical
+    - Magical
+    - Tank
+    - Jungle
+    - Support
+    - Assassin
+    - Custom Mage
+    - Fighter
+    - Marksman
