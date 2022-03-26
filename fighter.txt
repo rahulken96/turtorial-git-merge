@@ -9,4 +9,5 @@ Beberapa Hero Fighter :
     - Diroth
     - Aladin
     - Aldos
+    - Guinever
     - ...
