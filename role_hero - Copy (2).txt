@@ -1,6 +1,0 @@
-Didalam sebuah game terdapat beberapa role yang bisa digunakan pemain :
-    - Fighter
-    - Tanker
-    - Mage
-    - Assassin
-    - Marksman
