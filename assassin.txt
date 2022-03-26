@@ -10,4 +10,5 @@ Beberapa Hero Assassin :
     - Among As
     - YSS
     - Selena
+    - Zilong
     - ...
