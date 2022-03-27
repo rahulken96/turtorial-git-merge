@@ -1,0 +1,3 @@
+Mode dalam game :
+    - Klasik
+    - Rank
