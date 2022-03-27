@@ -1,4 +1,4 @@
-Untuk membantu/menambahkan status sebuah hero yang digunakan dalam pertandingan:
+Untuk membantu/menambahkan status sebuah hero yang digunakan dalam pertandingan :
     - Custom Physical
     - Custom Magical
     - Tank
