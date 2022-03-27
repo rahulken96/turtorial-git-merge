@@ -2,4 +2,9 @@ Beberapa Hero Mage :
     - Valir
     - Pharsa
     - Nana
+    - Xavier
+    - Yve
+    - Valentina
+    - Mathilda
+    - Eudora
     - ...
