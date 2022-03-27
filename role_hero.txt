@@ -4,3 +4,4 @@ Didalam sebuah game terdapat beberapa role yang bisa digunakan pemain :
     - Mage
     - Assassin
     - Marksman
+    - Support
