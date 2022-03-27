@@ -1,4 +1,4 @@
-Untuk membantu/menambahkan status sebuah hero yang digunakan dalam pertandingan, terdapat beberapa " Emblem " yang digunakan :
+Untuk membantu/menambahkan status sebuah hero yang digunakan dalam pertandingan :
     - Custom Physical
     - Custom Magical
     - Tank

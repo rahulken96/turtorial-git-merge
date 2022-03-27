@@ -9,3 +9,6 @@ Beberapa Hero Mage :
     - Eudora
     - Martis
     - ...
+    - Guinever
+    - Ceci
+    - ...
