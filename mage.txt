@@ -7,4 +7,5 @@ Beberapa Hero Mage :
     - Nana
     - Xavier
     - Eudora
+    - Martis
     - ...
