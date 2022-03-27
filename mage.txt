@@ -1,9 +1,4 @@
 Beberapa Hero Mage :
-    - Valir
-    - Pharsa
-    - Nana
-    - Selena
-    - Vale
     - Guinever
     - Ceci
     - ...
