@@ -1,3 +1,4 @@
 Mode dalam game :
     - Klasik
+    - vs a.i
     - Rank
